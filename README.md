@@ -9,8 +9,8 @@ Este projeto tem como objetivo treinar e avaliar um modelo de classificação ut
 O arquivo breast-cancer.csv contém 286 registros com informações sobre pacientes diagnosticadas com câncer de mama.
 As variáveis incluem:
 
-idade
-estado menopausal
+. idade
+. estado menopausal
 tamanho do tumor
 número de linfonodos
 presença de cápsula nos linfonodos
@@ -29,9 +29,9 @@ recurrence-events
 # Pré-processamento
 As etapas de preparação dos dados incluíram:
 
-Remoção de registros com valores ausentes ("?").
-Conversão de atributos categóricos em variáveis numéricas utilizando One-Hot Encoding.
-Separação entre atributos (X) e classe (y).
+1. Remoção de registros com valores ausentes ("?").
+2. Conversão de atributos categóricos em variáveis numéricas utilizando One-Hot Encoding.
+3. Separação entre atributos (X) e classe (y).
 
 # Treinamento do Modelo
 O modelo escolhido foi: DecisionTreeClassifier()
