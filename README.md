@@ -23,8 +23,8 @@ A coluna alvo é: Class
 
 Com dois valores possíveis:
 
-no-recurrence-events
-recurrence-events
+* no-recurrence-events
+* recurrence-events
 
 # Pré-processamento
 As etapas de preparação dos dados incluíram:
@@ -38,16 +38,16 @@ O modelo escolhido foi: DecisionTreeClassifier()
 
 Os dados foram divididos com a técnica Hold-Out:
 
-70% para treinamento
-30% para teste
+* 70% para treinamento
+* 30% para teste
 
 # Avaliação
 O script produz:
 
-acurácia do modelo
-matriz de confusão numérica
-matriz de confusão gráfica
-comparação entre valores reais e previstos
+* acurácia do modelo
+* matriz de confusão numérica
+* matriz de confusão gráfica
+* comparação entre valores reais e previstos
 A acurácia obtida foi aproximadamente: 73.8%
 
 Valor coerente com o tamanho e natureza do dataset, que contém diversas variáveis categóricas e é levemente desbalanceado.
