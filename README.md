@@ -9,16 +9,16 @@ Este projeto tem como objetivo treinar e avaliar um modelo de classificação ut
 O arquivo breast-cancer.csv contém 286 registros com informações sobre pacientes diagnosticadas com câncer de mama.
 As variáveis incluem:
 
-. idade
-. estado menopausal
-tamanho do tumor
-número de linfonodos
-presença de cápsula nos linfonodos
-grau de malignidade
-lado do seio afetado
-quadrante da mama
-exposição à radiação
-classe (variável alvo)
+* idade
+* estado menopausal
+* tamanho do tumor
+* número de linfonodos
+* presença de cápsula nos linfonodos
+* grau de malignidade
+* lado do seio afetado
+* quadrante da mama
+* exposição à radiação
+* classe (variável alvo)
 A coluna alvo é: Class
 
 Com dois valores possíveis:
