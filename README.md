@@ -1,6 +1,6 @@
 # Data-Science-Avaliacao-A1
 
-Este projeto tem como objetivo treinar e avaliar um modelo de classificação utilizando o algoritmo Decision Tree aplicado ao dataset (breast-cancer.csv). O modelo é capaz de prever se um caso representa recorrência ou não da doença, com base em variáveis clínicas categóricas e numéricas.
+Este projeto tem como objetivo treinar e avaliar um modelo de classificação utilizando o algoritmo Decision Tree aplicado ao dataset breast-cancer.csv. O modelo é capaz de prever se um caso representa recorrência ou não da doença, com base em variáveis clínicas categóricas e numéricas.
 
 # Arquivos do Projeto
 ├── classificador.py └── breast-cancer.csv
